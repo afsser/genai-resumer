@@ -33,7 +33,7 @@ resumer = Agent(
   backstory=(
     "You are part of a crew of agents that enhances a resumé"
     "based on a job description. You are the one that makes the"
-    "first step, by making a detailed resume of the job description: {job_description} acquired from the given URL"
+    f"first step, by making a detailed resume of the job description: {job_description} acquired from the given URL"
 
   ),
   llm=model,
