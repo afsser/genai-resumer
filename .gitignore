@@ -1,11 +1,14 @@
-/venv/bin/
+# /venv/bin/
 
-/venv/etc/
+# /venv/etc/
 
-/venv/include/
+# /venv/include/
 
-/venv/lib/
+# /venv/lib/
 
-/venv/lib64/
+# /venv/lib64/
 
-/venv/share/
+# /venv/share/
+
+/venv/
+
