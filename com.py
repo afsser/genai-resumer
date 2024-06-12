@@ -61,7 +61,7 @@ resume_task = Task(
     "focus on the main abilities and requirements of the job description."
   ),
   expected_output='A comprehensive 3 paragraphs long resume of all the informations in the job description.',
-  agent=resumer,
+  agent=resumer
 )
 
 # Writing task with language model configuration
